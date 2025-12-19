@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(powershell:*)",
+      "Bash(npm install:*)",
+      "Bash(npm config set:*)",
+      "Bash(npm run dev)"
+    ]
+  }
+}

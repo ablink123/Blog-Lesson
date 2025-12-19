@@ -1,0 +1,97 @@
+{
+  "name": "AI学习社团",
+  "description": "专为零基础学员打造的AI学习社区，让每个人都能跟上AI时代的发展步伐",
+  "pricing": "299元/季度",
+  "teacher": {
+    "name": "AB哥",
+    "title": "AI实战专家",
+    "experience": "10年AI开发经验",
+    "students": "已培养1000+学员",
+    "specialty": "专注AI应用开发与教学"
+  },
+  "contact": {
+    "wechat": "AB哥AI课堂",
+    "phone": "",
+    "email": ""
+  },
+  "features": [
+    {
+      "title": "专为零基础设计",
+      "description": "从最基础的AI概念开始，循序渐进，确保每位学员都能跟上进度"
+    },
+    {
+      "title": "AB哥亲自带班",
+      "description": "资深AI专家手把手教学，个性化指导，确保学习效果"
+    },
+    {
+      "title": "8大系统课程",
+      "description": "涵盖AI基础、提示词工程、实战项目等完整学习体系"
+    },
+    {
+      "title": "实战黑客松",
+      "description": "参与真实AI项目开发，积累实战经验和作品集"
+    }
+  ],
+  "courses": [
+    {
+      "part": "Part 1",
+      "title": "AI基础入门",
+      "description": "了解AI发展历史，掌握基本概念和术语"
+    },
+    {
+      "part": "Part 2",
+      "title": "提示词工程",
+      "description": "学习如何与AI有效对话，掌握高级提示技巧"
+    },
+    {
+      "part": "Part 3",
+      "title": "实战项目1",
+      "description": "完成第一个AI应用项目，理论与实践结合"
+    },
+    {
+      "part": "Part 4",
+      "title": "实战项目2",
+      "description": "进阶项目开发，提升综合应用能力"
+    },
+    {
+      "part": "Part 5",
+      "title": "AI工具精通",
+      "description": "熟练使用主流AI工具和平台"
+    },
+    {
+      "part": "Part 6",
+      "title": "项目实战3",
+      "description": "完成复杂的AI项目，展现学习成果"
+    },
+    {
+      "part": "Part 7",
+      "title": "作品集优化",
+      "description": "整理和优化个人AI项目作品集"
+    },
+    {
+      "part": "Part 8",
+      "title": "职业发展",
+      "description": "AI职业规划指导，就业技能培养"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "张小明",
+      "role": "零基础学员",
+      "content": "完全没接触过AI，AB哥的课程让我从零开始，现在已经能独立完成AI项目了！",
+      "avatar": "/pic/avatar1.jpg"
+    },
+    {
+      "name": "李小红",
+      "role": "转行学员",
+      "content": "AB哥的教学很耐心，社群氛围很好，同学们互相帮助，学习效果很棒！",
+      "avatar": "/pic/avatar2.jpg"
+    },
+    {
+      "name": "王小强",
+      "role": "在职提升",
+      "content": "通过系统学习，成功将AI应用到工作中，职业发展有了新突破！",
+      "avatar": "/pic/avatar3.jpg"
+    }
+  ]
+}

@@ -5,7 +5,9 @@
       "Bash(powershell:*)",
       "Bash(npm install:*)",
       "Bash(npm config set:*)",
-      "Bash(npm run dev)"
+      "Bash(npm run dev)",
+      "Bash(git push:*)",
+      "Bash(git add:*)"
     ]
   }
 }
